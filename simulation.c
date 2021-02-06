@@ -1,6 +1,4 @@
-//İsmailcan Tosun 365239 1.öğretim A grubu struct
-// Uğur Şatır 314027 2. Öğretim C grubu Dosya
-
+#ismail can tosun - year 2018
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
