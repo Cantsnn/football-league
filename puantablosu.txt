@@ -1,0 +1,13 @@
+TAKIMLAR       MAC G B M A Y  Av  Puan
+K ankaragucu 	0  0 0 0 0 0  0   0
+L ankaraspor 	0  0 0 0 0 0  0   0
+H gencbelediye 	2  1 1 0 5 4  1   3
+A idmangucu 	5  4 0 1 10 4  6   7
+B idmanocagi 	4  1 0 3 8 12  -4   -1
+C kasimpasa 	3  1 1 1 7 8  -1   2
+J mackaspor 	2  1 0 1 2 2  0   1
+I ofspor 	4  1 2 1 6 6  0   3
+D sebatspor 	3  1 2 0 8 6  2   4
+G takaspor 	3  1 0 2 9 10  -1   0
+F ugurspor 	4  2 1 1 6 4  2   4
+E yelkenciler 	4  0 1 3 8 13  -5   -2
